@@ -31,6 +31,5 @@ public class SeleniumTest {
         //driver.quit();
 
         driver.close();
-
     }
 }
