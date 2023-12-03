@@ -12,6 +12,7 @@ public class T1_findElements {
     public static void main(String[] args) {
 
 
+
              /*
         1- Open a chrome browser
         2- Go to: https://www.nba.com
