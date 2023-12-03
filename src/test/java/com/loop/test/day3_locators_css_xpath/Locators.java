@@ -13,7 +13,7 @@ public class Locators {
 
     public static void main(String[] args) {
 
-        // setuo driver
+        // setup driver
         WebDriverManager.chromedriver().setup();
 
         // create the driver object
@@ -31,7 +31,7 @@ public class Locators {
         WebElement searchBoxWithName = driver.findElement(By.name("q"));
         WebElement aboutLink = driver.findElement(By.linkText("About"));
 
-       // aboutLink.click();
+       //aboutLink.click();
 
         // create a string what you want to search
         searchBoxWithName.sendKeys("Feyruz is handsome");
