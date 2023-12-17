@@ -7,7 +7,8 @@ import org.testng.annotations.Test;
 
 import java.util.Set;
 
-import static org.testng.AssertJUnit.assertEquals;
+import static org.testng.Assert.assertEquals;
+
 
 public class T1_window extends TestBase {
    /*
