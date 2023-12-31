@@ -29,7 +29,7 @@ public class Driver {
     /**
      * singleton pattern
      * @return driver
-     * @author hamid
+     * @author nadir
      */
     public static WebDriver getDriver(){
         if(driver==null){
